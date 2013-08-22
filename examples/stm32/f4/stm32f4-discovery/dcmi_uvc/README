@@ -1,0 +1,7 @@
+------------------------------------------------------------------------------
+README
+------------------------------------------------------------------------------
+
+I'm going to implement simple USB Video Class device that
+uses OV3460 via DCMI here.
+Currently it is just copy of usb_cdcacm.
